@@ -16,7 +16,7 @@ Results are printed considering float point numbers as follows:
 To run, first insure python3 is installed, then in the terminal run: 
 ```python3 main.py```
 
-![Screenshot of Coding Results]()
+![Screenshot of Coding Results](Screenshots/Python_Screenshot_Moviri.png?raw=true)
 
 
 ### Part 2 SQL Query Exercise: 
@@ -28,7 +28,8 @@ to run, first insure sqlite3 is installed, then in the terminal run:
  
 ```cat employeeInvoiceTotals.sql | sqlite3 moviri.sqlite.db```
 
-![Screenshot of SQL Results](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Screenshot of SQL Results](Screenshots/SQL_Screenshot_Moviri.png
+)
 
 ## Author 
 Alexis Santella 
