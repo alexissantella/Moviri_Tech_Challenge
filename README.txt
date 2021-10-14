@@ -1,4 +1,4 @@
-#Moviri Technical Challenge Solution
+# Moviri Technical Challenge Solution
 
 Developed using Python and SQLite 
 
