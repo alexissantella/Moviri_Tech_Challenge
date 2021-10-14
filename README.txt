@@ -1,10 +1,11 @@
-# Moviri Technical Challenge Solution
+#Moviri Technical Challenge Solution
 
 Developed using Python and SQLite 
 
 ## Description
 
 ### Part 1 Coding Exercise: 
+Solution in file: "main.py"
 
 Procedure combining information from two CSV files using python to calculate the network bandwidth utilization for each line in the “netbitrate.csv” file. 
 
@@ -15,10 +16,11 @@ Results are printed considering float point numbers as follows:
 To run, first insure python3 is installed, then in the terminal run: 
 ```python3 main.py```
 
-![Screenshot of Coding Results](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Screenshot of Coding Results]()
 
 
-### Part 2 SQL Query Exercise:
+### Part 2 SQL Query Exercise: 
+Solution in file: "employeeInvoiceTotals.sql"
 
 SQL query that retrieves all employees and the respective sum of invoice totals for the customers they support. Ordered in descending order by the total invoice sum.
 
